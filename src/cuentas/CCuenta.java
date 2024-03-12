@@ -7,6 +7,11 @@ public class CCuenta {
     private String cuenta;
     private double saldo;
     private double tipoInterés;
+    
+    /**
+     * Comentario javadoc para el proyecto
+     */
+    
 
     public CCuenta()
     {
